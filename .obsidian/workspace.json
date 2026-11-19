@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "9d7027da44d46b86",
+    "type": "split",
+    "children": [
+      {
+        "id": "86af9ee468ed08a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "038f4757dffef9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Visualización/01 · Visualización con Plotly y Seaborn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 · Visualización con Plotly y Seaborn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1b86605d57281c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "04227dff7cd1f39f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcb353f26edd5da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3eb02aa9bc29e691",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a91cfe4470fc9985",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.35540771484375
+  },
+  "right": {
+    "id": "bbf879fb5f4c2b82",
+    "type": "split",
+    "children": [
+      {
+        "id": "591eb3451729664f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fad594bef682259",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7bf450817fd48b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Antes de empezar/Guía de Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "58e223fcb0b7ee82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a2f53230de440ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa2ac04dd8b95db8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Antes de empezar/Guía de Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 810.8135986328125,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "038f4757dffef9ca",
+  "lastOpenFiles": [
+    "06 Pandas/01 · Pandas, leer y perfilar.md",
+    "03 Python modular y código limpio/02 · Python modular y tests.md",
+    "03 Python modular y código limpio/01 · Python funciones, errores y asserts.md",
+    "02 Git y GitHub/01 · Git y GitHub.md",
+    "01 Python básico y lógica/01 · Variables, tipos y booleanos.md",
+    "00 Antes de empezar/01 · Tu entorno de trabajo.md",
+    "01 Fundamentos/Python básico, valores, listas y diccionarios.md",
+    "01 Fundamentos/Git y GitHub.md",
+    "10 Neon PostgreSQL/01 · Neon, Postgres en la nube.md",
+    "00 Antes de empezar/02 · Guía de Obsidian.md",
+    "00 Empieza acá.md",
+    "Glosario.md",
+    "Cómo se evalúa.md",
+    "Calendario.md",
+    "08 Agentes/Agentes, OpenCode.md",
+    "Adjuntos/logos/openrouter.svg",
+    "Adjuntos/logos/opencode.svg",
+    "05 Escala y motores/Hito 1.md",
+    "00 Antes de empezar/Guía de Obsidian.md",
+    "Anexos/Polars en 25 minutos.md",
+    "Anexos/Playwright, el tercer peldaño del scraping.md",
+    "Anexos/Esquema de datos.md",
+    "Anexos/Equivalencias Pandas y Polars.md",
+    "Anexos/Chuleta de errores.md",
+    "Plantillas/Plantilla - Nota de semana.md",
+    "00 Antes de empezar/Tu entorno de trabajo.md",
+    "Untitled.canvas",
+    "08 Agentes/Agentes, el agente como compañero.md",
+    "09 Proyecto final/Proyecto, defensa.md",
+    "Adjuntos/logos/telegram.svg",
+    "Adjuntos/logos/streamlit.svg",
+    "Adjuntos/logos/python.svg",
+    "Adjuntos/logos/pytest.svg",
+    "Adjuntos/logos/pypi.svg",
+    "Adjuntos/logos/postgresql.svg",
+    "Adjuntos/logos/polars.svg",
+    "Adjuntos/logos/plotly.svg",
+    "Adjuntos/logos",
+    "Adjuntos"
+  ]
+}
