@@ -149,3 +149,6 @@ Vas a cruzar estas ventas con el clima, y ahí aparece el error más caro del cu
 
 > [!note] Tu espacio
 > Pega acá tus tres consultas y el resultado de cada una (o una captura de la salida). Si una cifra no te cuadra con el CSV, pega también las dos versiones: es la duda que más se repite y conviene resolverla antes de seguir.
+
+---
+![[meme-dev-meme.png]]

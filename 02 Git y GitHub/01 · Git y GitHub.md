@@ -266,3 +266,6 @@ Vas a ordenar el código en carpetas que se importan entre sí, leer el `.env` s
 
 > [!note] Tu espacio
 > Pega acá la salida de `git log --oneline`, la URL de tu repo o el mensaje que no pudiste resolver.
+
+---
+![[meme-github.jpg]]

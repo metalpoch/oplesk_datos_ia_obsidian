@@ -7,7 +7,7 @@ Cada tema tiene la misma forma: qué problema resuelve, qué es cada cosa, la te
 ## 🧭 Cómo se lee
 
 1. **Lee el tema completo una vez**, sin detenerte en lo que no entiendas. Toma entre 15 y 20 minutos.
-2. Cuando algo no cierre, escribe `#duda` en esa línea. Al final buscas `#duda` en Obsidian (`Ctrl+O`) y llegas con las preguntas.
+2. Cuando algo te cuadre, escribe `#duda` en esa línea. Al final buscas `#duda` en Obsidian (`Ctrl+O`) y llegas con las preguntas.
 3. Haz los **ejercicios base** en tu computadora, no acá. Son los que de verdad enseñan.
 4. Pega el resultado —o el error que no pudiste resolver— en **"Mi resultado"**, al final del tema.
 

@@ -253,3 +253,6 @@ Los haces en tu terminal o en VS Code. Pega la salida en "Mi resultado".
 
 > [!note] Tu espacio
 > Pega las cinco variables con su tipo, las cinco comparaciones con su resultado, y el traceback del ejercicio 3 tal como te salió.
+
+---
+![[meme-dev-var.jpg]]

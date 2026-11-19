@@ -152,3 +152,6 @@ Pasas de un gráfico exportado a una **app**: el mismo gráfico, pero con un fil
 
 > [!note] Tu espacio
 > Pega acá las dos frases (una por gráfico), la ruta de los archivos y el texto del error que no pudiste resolver. El siguiente tema retoma lo que quede acá.
+
+---
+![[meme-analisis-datos-2.jpg]]

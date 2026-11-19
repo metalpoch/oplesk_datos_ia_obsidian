@@ -191,3 +191,6 @@ Sirve para los primeros temas. A partir del código modular, los tests y git se 
 ## ➡️ Siguiente tema
 
 [[04 · Listas y diccionarios]] — primer tema de contenido. Con el entorno listo, se empieza por el contenido y no por la instalación.
+
+---
+![[setup-meme.jpg]]

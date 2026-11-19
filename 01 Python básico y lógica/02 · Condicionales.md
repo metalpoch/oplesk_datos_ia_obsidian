@@ -179,3 +179,6 @@ El tercero no muestra ningún mensaje y es el más caro: la cadena con el orden 
 
 > [!note] Tu espacio
 > Pega las salidas de los tres ejercicios base y los dos mensajes de error con su versión corregida.
+
+---
+![[meme-dev-if.png]]

@@ -144,3 +144,5 @@ Nada de eso necesita que seas experto en Obsidian. Necesita que escribas diez l�
 - [Ayuda oficial de Obsidian](https://help.obsidian.md/) — corta y en español
 - [Sintaxis de Markdown](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 - Siguiente paso del curso: [[01 · Tu entorno de trabajo]]
+---
+![[meme-obsidian.jpeg]]]

@@ -152,3 +152,6 @@ La app va a responder rápido: vas a cachear la consulta y medir los dos tiempos
 
 > [!note] Tu espacio
 > Pega acá la captura de la app con el filtro aplicado, los dos totales que comprobaste y el texto del error que no pudiste resolver. El siguiente tema retoma lo que quede acá.
+
+---
+![[meme-excel.jpg]]

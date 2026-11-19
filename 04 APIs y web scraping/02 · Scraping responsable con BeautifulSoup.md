@@ -182,3 +182,7 @@ Ya tienes datos que nadie te dio: en el siguiente tema aparece el lugar donde se
 
 > [!note] Tu espacio
 > Pega acá las 5 primeras filas de tu CSV, cuántos productos extrajiste y **cuántos quedaron sin precio**. Ese último número es el ejercicio: si da 0, revisaste el HTML con más cuidado que el script. Si no te coincide, pega el error.
+
+---
+
+![[meme-scraping.png]]

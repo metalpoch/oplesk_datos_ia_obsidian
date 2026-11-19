@@ -148,3 +148,6 @@ Vas a agrupar esas ventas por fecha y cruzarlas con el clima, con una fila por f
 
 > [!note] Tu espacio
 > Pega acá lo que te salió (una captura, un conteo, el texto del error que no pudiste resolver). En el siguiente tema se retoma lo que quedó acá.
+
+---
+![[meme-analisis-datos.jpg]]

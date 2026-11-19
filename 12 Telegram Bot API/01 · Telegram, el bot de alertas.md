@@ -140,3 +140,6 @@ Vas a pedirle un cambio a un agente, correr tus tests y descubrir que la propues
 
 > [!note] Tu espacio
 > Pega acá la captura de los tres mensajes y el JSON exacto del `chat not found`. El siguiente tema retoma lo que quede acá.
+
+---
+![[meme-telegram.jpg]]

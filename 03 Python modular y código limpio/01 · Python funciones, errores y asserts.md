@@ -201,3 +201,7 @@ Vas a meter todo esto en un repo con commits, ramas y un pull request, para que 
 
 > [!note] Tu espacio
 > Pega acá lo que te salió (los tres totales, el `AssertionError` con mensaje o el traceback que no pudiste resolver). En el siguiente tema se retoma por lo que quedó acá.
+
+---
+
+![[meme-python-1.jpeg]]

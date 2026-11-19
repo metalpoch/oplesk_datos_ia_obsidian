@@ -168,3 +168,6 @@ Vas a leer las ventas desde un archivo CSV real en vez de copiarlas a mano, y a 
 
 > [!note] Tu espacio
 > Pega acá la salida de `python -m pytest`, el error de import que no pudiste resolver o la prueba de que el reporte corre desde las dos carpetas.
+
+---
+![[meme-dev-1.jpeg]]

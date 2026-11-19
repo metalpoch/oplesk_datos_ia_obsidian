@@ -145,3 +145,6 @@ Vas a leer el número en vez de calcularlo, empezando por entender por qué el t
 
 > [!note] Tu espacio
 > Pega acá lo que te salió (una captura, un conteo, el texto del error que no pudiste resolver). En el siguiente tema se retoma lo que quedó acá.
+
+---
+![[meme-pandas-2.jpg]]

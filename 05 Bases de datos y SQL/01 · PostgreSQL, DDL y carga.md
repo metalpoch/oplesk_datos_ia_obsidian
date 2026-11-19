@@ -146,3 +146,6 @@ Con las 50.000 filas adentro, vas a poder hacerle preguntas al negocio con SQL: 
 
 > [!note] Tu espacio
 > Pega acá el resultado de `count(*)` junto con la cantidad de líneas de tu CSV, y el error completo si no coinciden. Dos números y un mensaje: con eso sabemos si se cargó todo o si se perdió la mitad en el camino.
+
+---
+![[meme-postgresql.jpg]]

@@ -177,3 +177,7 @@ Cuando el dato no esté en ninguna API, vas a tener que sacarlo de una página w
 
 > [!note] Tu espacio
 > Pega acá el código de estado que devolvió la API, las 3 primeras filas de `clima_caracas.csv` y cuántos días te quedaron. Si falló, pega el error completo: con el status y el mensaje alcanza para ubicarlo sin que tengas que explicarlo.
+
+---
+
+![[meme-python-2.jpeg]]

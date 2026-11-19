@@ -195,3 +195,6 @@ El reto no es obligatorio para aprobar. Suma si puedes explicar la decisión que
 
 > [!note] Tu espacio
 > Pega el diccionario de totales, el traceback del ejercicio 3 y la clave que confundiste.
+
+---
+![[meme-python-set-dictionary.webp]]

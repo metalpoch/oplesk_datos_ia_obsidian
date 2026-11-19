@@ -221,3 +221,7 @@ Los datos ya llegan por la red y quedan en un CSV: el tema siguiente es dónde s
 
 > [!note] Tu espacio
 > Pega acá el resultado de `grep -n "ghp_" auth.py` (vacío es lo correcto), cuántas páginas pidió tu script, las 3 primeras filas de `repos_octocat.csv` y los dos mensajes de cuerpo del ejercicio 3.
+
+---
+
+![[meme-api.png]]

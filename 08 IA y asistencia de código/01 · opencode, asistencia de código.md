@@ -163,3 +163,6 @@ Le sigue **DuckDB**. El pipeline ya está entero y el agente te ayuda a mantener
 
 > [!note] Tu espacio
 > Pega el diff que aceptaste (o el que rechazaste y por qué), el resultado de `pytest` después del cambio, y una línea con lo que el agente se inventó si te pasó.
+
+---
+![[opencode-image.jpg]]
