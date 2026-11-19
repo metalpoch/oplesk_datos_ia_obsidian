@@ -1,3 +1,13 @@
 # Estado local de la interfaz de Obsidian (paneles abiertos, anchos).
 # No es contenido del curso: cada persona lo reescribe al usar el vault.
 .obsidian/workspace.json
+
+# Plugins de la comunidad: código de terceros + lista de activados.
+# Son complitos personales de cada persona; no deben viajar con el repo
+# compartido (evita plugins "activados" sin instalar en las máquinas de otros).
+.obsidian/plugins/
+.obsidian/community-plugins.json
+
+# Personalizaciones locales por persona (opcionales, descomenta si quieres):
+# .obsidian/snippets/
+# .obsidian/hotkeys.json
