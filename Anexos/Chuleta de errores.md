@@ -98,5 +98,3 @@ tags: [anexo, errores, chuleta, depuracion]
 
 - Los temas donde aparecen: [[01 · Git y GitHub]] · [[01 · HTTP con httpx]] · [[02 · Pandas, limpiar y reportar]] · [[01 · DuckDB y Parquet]] · [[01 · Streamlit, primera app]] · [[01 · Neon, Postgres en la nube]] · [[01 · GitHub Actions, workflow y cron]]
 - [[Polars en 25 minutos]] — el error de orden de filas de la 2.0 no aparece como excepción: es silencioso
-- [[01 · Proyecto, integración]] — cómo ubicar el primer paso rojo cuando hay varios errores juntos
-- [[02 · Proyecto, reproducibilidad]] — los errores que solo aparecen en la máquina de otro

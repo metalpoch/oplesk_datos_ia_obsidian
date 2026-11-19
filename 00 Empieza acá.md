@@ -31,21 +31,13 @@ Cada tema tiene la misma forma: qué problema resuelve, qué es cada cosa, la te
 
 ### Fase 2 — Analítica y despliegue
 
-| # | Módulo | Temas |
-|---|---|---|
-| 09 | [[01 · DuckDB y Parquet]] | SQL sobre archivos · consultas sobre datos masivos |
-| 10 | [[01 · Neon, Postgres en la nube]] | Postgres gestionado · conexión desde Python y arranque en frío |
-| 11 | [[01 · GitHub Actions, workflow y cron\|GitHub Actions]] | Workflow · cron · secretos · depurar · artefactos |
-| 12 | [[01 · Telegram, el bot de alertas]] | El bot como canal de aviso |
-| 13 | [[01 · Streamlit, primera app\|Streamlit y Streamlit Cloud]] | App · caché · publicar |
-
-## 🏁 El portafolio
-
-El programa termina con un proyecto propio, no con un examen. Las notas del cierre son:
-
-- [[01 · Proyecto, integración]] — el pipeline completo de punta a punta.
-- [[02 · Proyecto, reproducibilidad]] — que otro pueda correrlo desde cero.
-- [[03 · Proyecto, defensa]] — cómo se presenta y se defiende en ocho minutos.
+|     | Módulo                                                       | Temas                                                          |
+| --- | ------------------------------------------------------------ | -------------------------------------------------------------- |
+| 09  | [[01 · DuckDB y Parquet]]                                    | SQL sobre archivos · consultas sobre datos masivos             |
+| 10  | [[01 · Neon, Postgres en la nube]]                           | Postgres gestionado · conexión desde Python y arranque en frío |
+| 11  | [[01 · GitHub Actions, workflow y cron\|GitHub Actions]]     | Workflow · cron · secretos · depurar · artefactos              |
+| 12  | [[01 · Telegram, el bot de alertas]]                         | El bot como canal de aviso                                     |
+| 13  | [[01 · Streamlit, primera app\|Streamlit y Streamlit Cloud]] | App · caché · publicar                                         |
 
 ## 📎 Anexos
 
